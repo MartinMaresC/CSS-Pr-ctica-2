@@ -1,0 +1,44 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.izquierda {
+    text-align: left;
+}
+
+.derecha {
+    text-align: right;
+}
+
+.centro {
+    text-align: center;
+}
+
+.justificado {
+    text-align: justify;
+}
+
+.alreves {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+.decoradoOverLine {
+    text-decoration-line: overline;
+}
+
+.decoradoLineThrough {
+    text-decoration-line: line-through;
+}
+
+.underline {
+    text-decoration-line: underline;
+}
+
+.decoradoCompleto {
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 5px;
+}
+
